@@ -1,0 +1,22 @@
+.contenedor {
+	width:80%; 
+	border:solid black 1px;
+}
+.caja1 {
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+	float:left;
+}
+.caja2{
+	width: 200px;
+	height: 200px;
+	background-color: royalblue;
+	float:left;
+}
+.caja3 {
+	width: 200px;
+	height: 200px;
+	background-color: deeppink;
+	float:left;
+}
